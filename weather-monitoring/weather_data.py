@@ -2,7 +2,7 @@ import requests
 import time
 from datetime import datetime, timezone
 
-API_KEY = '8144159eb0e4aec701a505a8138fd14b'  # Replace with your OpenWeatherMap API key
+API_KEY = 'YOUR_OpenWeatherMap_APIKEY'  # Replace with your OpenWeatherMap API key
 CITIES = ["Delhi", "Mumbai", "Chennai", "Bangalore", "Kolkata", "Hyderabad"]
 INTERVAL = 300  # Fetch data every 5 minutes
 
