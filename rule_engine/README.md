@@ -41,7 +41,7 @@ This project implements a simple 3-tier rule engine application using an Abstrac
 ### Running the Application
 
 1. **Start the Flask server**:
-	python api/app.py
+	python app.py
 
 2. Open the application in your browser: Go to http://localhost:5000
 
@@ -71,7 +71,7 @@ This project implements a simple 3-tier rule engine application using an Abstrac
 ### Running Tests
 
 1. **Run the tests**:
-	python -m unittest test/test_ast_rule.py
+	python -m unittest test_ast_rule.py
 
 
 
